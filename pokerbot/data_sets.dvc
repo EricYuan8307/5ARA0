@@ -1,0 +1,5 @@
+outs:
+- md5: 79397b5dddfdac005feb57e78cc2d935.dir
+  size: 9611909
+  nfiles: 12000
+  path: data_sets
